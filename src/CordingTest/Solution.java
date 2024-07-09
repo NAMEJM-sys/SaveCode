@@ -288,9 +288,9 @@ public class Solution {
         Collections.sort(suffix);
         return suffix.stream().toArray(String[]::new);
     }
-    public int IsSuffix() {
-        List<String> name = new ArrayList<>();
-
-
-    }
+//    public int IsSuffix() {
+//        List<String> name = new ArrayList<>();
+//
+//
+//    }
 }
